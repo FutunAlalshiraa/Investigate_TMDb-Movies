@@ -1,16 +1,22 @@
 # Investigate_TMDb-Movies
 This project aim to analyze a dataset and then communicate the findings about it. By using Python libraries CSV, NumPy, Pandas, and Matplotlib to make the analysis easier by building  data visualizations 
+
 What do I need to install?
 You will need an installation of Python, plus the following libraries:
-
 * pandas
 * NumPy
 * Matplotlib
 * csv
-We recommend installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook. You can find installation instructions here.
+
+We recommend installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook. 
 
 Why this Project?
-In this project, you'll go through the data analysis process and see how everything fits together. Later Nanodegree projects will focus on individual pieces of the data analysis process.
+This project will go through the data analysis process and see how everything fits together. Data Analysis Process: 
+1- Rasing or building questions on your dataset
+2- Data Wringling (data cleaning)
+3- Exploring your data
+4- Drawing conclusion or findings on your data
+5- Communicate your findings
 
 You'll use the Python libraries NumPy, pandas, and Matplotlib, which make writing data analysis code in Python a lot easier! Not only that, these are sought-after skills by employers!
 

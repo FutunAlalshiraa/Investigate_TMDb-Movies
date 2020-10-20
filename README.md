@@ -11,12 +11,12 @@ You will need an installation of Python, plus the following libraries:
 We recommend installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook. 
 
 Why this Project?
-This project will go through the data analysis process and see how everything fits together. Data Analysis Process: 
-1- Rasing or building questions on your dataset
-2- Data Wringling (data cleaning)
-3- Exploring your data
-4- Drawing conclusion or findings on your data
-5- Communicate your findings
+This project will go through the data analysis process and see how everything fits together. Data Analysis Process: <br></br>
+1- Rasing or building questions on your dataset<br></br>
+2- Data Wringling (data cleaning)<br></br>
+3- Exploring your data<br></br>
+4- Drawing conclusion or findings about your data <br></br>
+5- Communicate your findings<br></br>
 
 You'll use the Python libraries NumPy, pandas, and Matplotlib, which make writing data analysis code in Python a lot easier! Not only that, these are sought-after skills by employers!
 
